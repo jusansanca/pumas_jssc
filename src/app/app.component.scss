@@ -1,0 +1,69 @@
+.fondo{
+    
+    background-color: red;  
+
+}
+.logo{
+   right: 100px;
+    background-color: aqua;
+}
+
+.navbar-right-image {
+    margin-left: auto;
+  }
+
+.gameday{
+    padding: 10px;
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 20%;
+}
+
+.acompañanos{
+    text-decoration-line: underline;
+    position: absolute;
+    left: 50%;
+    top: 350px;
+}
+
+.cardgame{
+   
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    left: 45%;
+    top: 400px;
+}
+
+.navbar-superior {
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    background-color: #FF0000;
+    color: #FFFFFF;
+    padding: 5px;
+  }
+  
+  .navbar-superior img {
+    width: 50px;
+    height: 50px;
+  }
+  
+  .navbar-inferior {
+    background-color: #FF0000;
+    color: #FFFFFF;
+    padding: 5px;
+  }
+  
+  .navbar a {
+    color: #FFFFFF;
+    text-decoration: none;
+    margin: 0 20px;
+  }
+  
+.vertical-line {
+    height: 300px;
+    border-left: 4px solid yellow;
+    margin-left: 50px;
+}   
